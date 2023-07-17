@@ -1,3 +1,6 @@
+"""
+https://rosalind.info/problems/dna/
+"""
 class count_dna:
     def __init__(self):
         self.A = 0
